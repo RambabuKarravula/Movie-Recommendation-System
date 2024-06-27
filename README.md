@@ -1,9 +1,3 @@
-# movie-recommender-system-tmdb-dataset
-A content based movie recommender system using cosine similarity
-Here is the complete text content for your README file:
-
----
-
 # Movie Recommender System with Heroku Deployment
 
 ## Programming Language
